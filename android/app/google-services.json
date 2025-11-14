@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "830788049888",
+    "project_id": "chili-86ffd",
+    "storage_bucket": "chili-86ffd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:830788049888:android:bb9ce91a60eda335a3e985",
+        "android_client_info": {
+          "package_name": "com.example.chili_disease_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOjGjWY9GZXn8bWxFUC1-yVwdUeWs-Cw0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
